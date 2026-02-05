@@ -10,3 +10,6 @@ http://example.com/stream3
 
 #EXTINF:-1 tvg-id="test4" tvg-name="Test 4" group-title="Новости",Тестовый канал 4
 http://example.com/stream4
+
+#EXTINF:-1 tvg-id="test4" tvg-name="Test 4" group-title="Новости",Тестовый канал 4
+http://example.com/stream4
