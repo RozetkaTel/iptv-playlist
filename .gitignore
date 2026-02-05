@@ -1,0 +1,46 @@
+# Игнорируем файлы с токенами и настройками
+.git-credentials.local
+.github-config
+git_token.txt
+test_token.txt
+*.token
+*.secret
+credentials*.bak
+git_config_backup/
+
+# Игнорируем наши bat-скрипты (если не хотите делиться ими)
+setup_token.bat
+git_token_operations.bat
+project_git_config.bat
+simple_token_setup.bat
+git_push_simple.bat
+update_playlist.bat
+commit_changes.bat
+
+#
+Generate
+Personal
+README.txt
+
+# Игнорируем временные файлы настроек
+*.bat.bak
+*.tmp
+*.temp
+
+# Игнорируем экспорты настроек
+git_settings_export.txt
+settings_backup/
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Игнорируем IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Игнорируем логи
+*.log
