@@ -33,6 +33,36 @@ https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="" tvg-id="AndorraTV.ad" group-title="A-testgroup",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" group-title="Andorra",Andorra TV
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" group-title="Argentina",TN Todo Noticias Ⓨ
